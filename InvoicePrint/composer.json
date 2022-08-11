@@ -1,0 +1,19 @@
+{
+    "name": "digitalboutique/invoice-print",
+    "description": "N/A",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "require": {
+        "magento/framework": "*"
+    },
+    "license": [
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "DigitalBoutique\\InvoicePrint\\": ""
+        }
+    }
+}
