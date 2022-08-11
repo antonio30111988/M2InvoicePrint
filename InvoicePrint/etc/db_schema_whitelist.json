@@ -1,0 +1,12 @@
+{
+    "sales_invoice": {
+        "column": {
+            "is_printed": true
+        }
+    },
+    "sales_invoice_grid": {
+        "column": {
+            "is_printed": true
+        }
+    }
+}
